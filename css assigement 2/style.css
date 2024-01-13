@@ -1,0 +1,24 @@
+h1{
+    color: red;
+    background-color:rgb(255, 219, 183);
+}
+body{
+    background-color: rgb(231, 222, 222);
+}
+h4{
+    color: rgb(116, 115, 115);
+}
+span{
+    background-color: white;
+}
+a{
+    color: rgb(116, 170, 34);
+}
+h2{
+color: gold;
+background-color: white;
+font-weight: 100;
+}
+h3{
+    color: rgb(116, 115, 115);
+}
